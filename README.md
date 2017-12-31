@@ -5,4 +5,4 @@
 
 最快最有效的学习路径+资源分享+实战经验传授+交流学习，尽在微信公众号：AIPlayGround
 
-个人Email：lcyGo11@163.com
+Email：lcyGo11@163.com
