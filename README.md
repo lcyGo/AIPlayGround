@@ -6,3 +6,5 @@
 最快最有效的学习路径+资源分享+实战经验传授+交流学习，第一时间更新在微信公众号：AIPlayGround
 
 Email：lcyGo11@163.com
+
+CSDN博客：http://blog.csdn.net/yangchunlu0101
